@@ -1,2 +1,2 @@
-# Shotparis.site-Rua.io
+# Shotparis.site-Rua.github.io
 Сайт о моих навыках QA
